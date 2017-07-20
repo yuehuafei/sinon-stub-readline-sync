@@ -1,0 +1,16 @@
+{
+  "name": "20170719",
+  "version": "1.0.0",
+  "main": "ceshi.js",
+  "dependencies": {
+    "readline-sync": "^1.4.7",
+    "sinon": "^2.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
